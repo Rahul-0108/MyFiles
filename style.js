@@ -1,4 +1,4 @@
-export const style = {
+{
   "id": "basic",
   "name": "Basic",
   "zoom": 1,
